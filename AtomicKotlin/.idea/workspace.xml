@@ -1,0 +1,1309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a851a4ec-ae9e-4803-928d-5c5c7f30aa87" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Appendices/AtomicTest/Examples/src/AtomicTest.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Appendices/Java Interoperability/Examples/src/AnnotateThrows.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Appendices/Java Interoperability/Examples/src/AnnotatedJava.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Appendices/Java Interoperability/Examples/src/BigFibonacci.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Appendices/Java Interoperability/Examples/src/BigInt.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Appendices/Java Interoperability/Examples/src/ChangeName.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Appendices/Java Interoperability/Examples/src/CollectionStructure.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Appendices/Java Interoperability/Examples/src/ExtensionsToJavaClass.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Appendices/Java Interoperability/Examples/src/HiddenArrayList.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Appendices/Java Interoperability/Examples/src/JavaList.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Appendices/Java Interoperability/Examples/src/KotlinChecked.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Appendices/Java Interoperability/Examples/src/KotlinClass.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Appendices/Java Interoperability/Examples/src/KotlinDataClass.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Appendices/Java Interoperability/Examples/src/KotlinWrapper.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Appendices/Java Interoperability/Examples/src/NPEOnPlatformType.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Appendices/Java Interoperability/Examples/src/PlatformTypes.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Appendices/Java Interoperability/Examples/src/Random.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Appendices/Java Interoperability/Examples/src/ReadOnlyByDefault.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Appendices/Java Interoperability/Examples/src/ReadOnlyCollections.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Appendices/Java Interoperability/Examples/src/TopLevelFunction.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Appendices/Java Interoperability/Examples/src/UseBeanClass.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Appendices/Java Interoperability/Examples/src/interoperability/AnnotatedJTool.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Appendices/Java Interoperability/Examples/src/interoperability/CallTopLevelFunction.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Appendices/Java Interoperability/Examples/src/interoperability/CallTopLevelFunction2.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Appendices/Java Interoperability/Examples/src/interoperability/CatchChecked.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Appendices/Java Interoperability/Examples/src/interoperability/Chameleon.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Appendices/Java Interoperability/Examples/src/interoperability/JTool.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Appendices/Java Interoperability/Examples/src/interoperability/JavaChecked.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Appendices/Java Interoperability/Examples/src/interoperability/JavaWrapper.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Appendices/Java Interoperability/Examples/src/interoperability/MakeSalad.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Appendices/Java Interoperability/Examples/src/interoperability/UseDataClass.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Appendices/Java Interoperability/Examples/src/interoperability/UsingKotlinClass.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Building Maps/Examples/src/AssociateBy.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Building Maps/Examples/src/AssociateByUnique.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Building Maps/Examples/src/AssociateWith.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Building Maps/Examples/src/FilterMap.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Building Maps/Examples/src/GetOrPut.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Building Maps/Examples/src/GroupBy.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Building Maps/Examples/src/GroupByVsFilter.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Building Maps/Examples/src/People.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Building Maps/Examples/src/SimilarOperation.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Building Maps/Examples/src/TransformingMap.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Building Maps/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Building Maps/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Building Maps/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Building Maps/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Building Maps/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Building Maps/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Folding Lists/Examples/src/FoldRight.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Folding Lists/Examples/src/FoldVsForLoop.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Folding Lists/Examples/src/ReduceAndReduceRight.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Folding Lists/Examples/src/RunningFold.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Folding Lists/Examples/src/SumViaFold.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Folding Lists/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Folding Lists/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Folding Lists/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Folding Lists/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Folding Lists/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Folding Lists/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Folding Lists/Exercise 4/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Folding Lists/Exercise 4/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Higher-Order Functions/Examples/src/Any.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Higher-Order Functions/Examples/src/CallingReference.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Higher-Order Functions/Examples/src/IsPlus.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Higher-Order Functions/Examples/src/NullableFunction.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Higher-Order Functions/Examples/src/NullableReturn.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Higher-Order Functions/Examples/src/Repeat.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Higher-Order Functions/Examples/src/RepeatByInt.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Higher-Order Functions/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Higher-Order Functions/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Higher-Order Functions/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Higher-Order Functions/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Higher-Order Functions/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Higher-Order Functions/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Higher-Order Functions/Exercise 4/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Higher-Order Functions/Exercise 4/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Lambdas/Examples/src/BasicLambda.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Lambdas/Examples/src/JoinToString.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Lambdas/Examples/src/LambdaAndNamedArgs.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Lambdas/Examples/src/LambdaIt.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Lambdas/Examples/src/LambdaTypeInference.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Lambdas/Examples/src/ListIndicesMap.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Lambdas/Examples/src/Mapping.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Lambdas/Examples/src/OmittingParentheses.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Lambdas/Examples/src/TwoArgLambda.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Lambdas/Examples/src/Underscore.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Lambdas/Examples/src/ZeroArguments.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Lambdas/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Lambdas/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Lambdas/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Lambdas/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Lambdas/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Lambdas/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Local Functions/Examples/src/CustomLabel.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Local Functions/Examples/src/InterestingSessions.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Local Functions/Examples/src/LabeledReturn.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Local Functions/Examples/src/LocalExtensions.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Local Functions/Examples/src/LocalFunctionReference.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Local Functions/Examples/src/LocalFunctions.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Local Functions/Examples/src/ReturnFromFun.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Local Functions/Examples/src/ReturnInsideLambda.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Local Functions/Examples/src/ReturningFunc.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Local Functions/Examples/src/Session.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Local Functions/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Local Functions/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Local Functions/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Local Functions/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Local Functions/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Local Functions/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Manipulating Lists/Examples/src/Flatten.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Manipulating Lists/Examples/src/FlattenAndFlatMap.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Manipulating Lists/Examples/src/PlayingCards.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Manipulating Lists/Examples/src/WhyFlatMap.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Manipulating Lists/Examples/src/ZipAndTransform.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Manipulating Lists/Examples/src/Zipper.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Manipulating Lists/Examples/src/ZippingWithNext.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Manipulating Lists/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Manipulating Lists/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Manipulating Lists/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Manipulating Lists/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Manipulating Lists/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Manipulating Lists/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Manipulating Lists/Exercise 4/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Manipulating Lists/Exercise 4/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Manipulating Lists/Exercise 5/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Manipulating Lists/Exercise 5/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Manipulating Lists/Exercise 6/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Manipulating Lists/Exercise 6/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Manipulating Lists/Exercise 7/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Manipulating Lists/Exercise 7/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Member References/Examples/src/ConstructorReference.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Member References/Examples/src/ExtensionReference.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Member References/Examples/src/FunctionReference.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Member References/Examples/src/PropertyReference.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Member References/Examples/src/SortWith.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Member References/Examples/src/TopLevelFunctionRef.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Member References/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Member References/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Member References/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Member References/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Member References/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Member References/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Operations on Collections/Examples/src/ByOperations.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Operations on Collections/Examples/src/CreatingLists.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Operations on Collections/Examples/src/FilterNotNull.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Operations on Collections/Examples/src/ListInit.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Operations on Collections/Examples/src/PairOfLists.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Operations on Collections/Examples/src/Partition.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Operations on Collections/Examples/src/Predicates.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Operations on Collections/Examples/src/SetOperations.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Operations on Collections/Examples/src/TakeOrDrop.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Operations on Collections/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Operations on Collections/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Operations on Collections/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Operations on Collections/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Operations on Collections/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Operations on Collections/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Operations on Collections/Exercise 4/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Operations on Collections/Exercise 4/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Recursion/Examples/src/CallStack.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Recursion/Examples/src/Factorial.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Recursion/Examples/src/Fibonacci.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Recursion/Examples/src/InfiniteRecursion.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Recursion/Examples/src/Iteration.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Recursion/Examples/src/RecursionLimits.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Recursion/Examples/src/TailRecursiveSum.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Recursion/Examples/src/VerySlowFibonacci.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Recursion/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Recursion/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Recursion/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Recursion/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Recursion/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Recursion/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Recursion/Exercise 4/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Recursion/Exercise 4/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Sequences/Examples/src/DefineTakeIf.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Sequences/Examples/src/EagerEvaluation.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Sequences/Examples/src/EagerVsLazyEvaluation.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Sequences/Examples/src/GenerateSequence1.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Sequences/Examples/src/GenerateSequence2.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Sequences/Examples/src/NoComputationYet.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Sequences/Examples/src/NumberSequence2.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Sequences/Examples/src/TerminalOperations.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Sequences/Exercise 1/src/School.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Sequences/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Sequences/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Sequences/Exercise 2/src/School.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Sequences/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Sequences/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Sequences/Exercise 3/src/School.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Sequences/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Sequences/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Sequences/Exercise 4/src/School.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Sequences/Exercise 4/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Sequences/Exercise 4/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Sequences/Exercise 5/src/School.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Sequences/Exercise 5/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Sequences/Exercise 5/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Sequences/Exercise 6/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Sequences/Exercise 6/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Sequences/Exercise 7/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Sequences/Exercise 7/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Sequences/Exercise 8/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/Sequences/Exercise 8/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/The Importance of Lambdas/Examples/src/Closures.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/The Importance of Lambdas/Examples/src/Closures2.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/The Importance of Lambdas/Examples/src/Filter.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/The Importance of Lambdas/Examples/src/FilterEven.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/The Importance of Lambdas/Examples/src/FunctionClosure.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/The Importance of Lambdas/Examples/src/GreaterThan2.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/The Importance of Lambdas/Examples/src/StoringLambda.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/The Importance of Lambdas/Examples/src/Sum.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/The Importance of Lambdas/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/The Importance of Lambdas/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/The Importance of Lambdas/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/The Importance of Lambdas/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/The Importance of Lambdas/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Functional Programming/The Importance of Lambdas/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Constraining Visibility/Examples/src/Cookie.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Constraining Visibility/Examples/src/MultipleRef.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Constraining Visibility/Examples/src/ObserveAnimals.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Constraining Visibility/Examples/src/RecordAnimals.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Constraining Visibility/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Constraining Visibility/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Constraining Visibility/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Constraining Visibility/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Constraining Visibility/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Constraining Visibility/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Constraining Visibility/Exercise 4/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Constraining Visibility/Exercise 4/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Constraining Visibility/Exercise 5/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Constraining Visibility/Exercise 5/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Constructors/Examples/src/Arg.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Constructors/Examples/src/DisplayAlienSpecies.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Constructors/Examples/src/MultipleArgs.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Constructors/Examples/src/Scientist.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Constructors/Examples/src/VisibleArgs.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Constructors/Examples/src/Wombat.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Constructors/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Constructors/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Constructors/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Constructors/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Constructors/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Constructors/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Constructors/Exercise 4/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Constructors/Exercise 4/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Creating Classes/Examples/src/Animals.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Creating Classes/Examples/src/Cat.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Creating Classes/Examples/src/Dog.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Creating Classes/Examples/src/Hamster.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Creating Classes/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Creating Classes/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Creating Classes/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Creating Classes/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Creating Classes/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Creating Classes/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Creating Classes/Exercise 4/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Creating Classes/Exercise 4/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Creating Classes/Exercise 5/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Creating Classes/Exercise 5/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Exceptions/Examples/src/AverageIncome.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Exceptions/Examples/src/AverageIncomeWithException.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Exceptions/Examples/src/AverageIncomeWithNull.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Exceptions/Examples/src/IntroducingCapture.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Exceptions/Examples/src/IntroducingNull.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Exceptions/Examples/src/ToIntException.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Exceptions/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Exceptions/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Exceptions/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Exceptions/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Exceptions/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Exceptions/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Exceptions/Exercise 4/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Exceptions/Exercise 4/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Lists/Examples/src/ListUsefulFunction.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Lists/Examples/src/Lists.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Lists/Examples/src/MultipleListRefs.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Lists/Examples/src/MutListIsList.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Lists/Examples/src/MutableList.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Lists/Examples/src/OutOfBounds.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Lists/Examples/src/ParameterizedReturn.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Lists/Examples/src/ParameterizedTypes.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Lists/Exercise 1/src/IntList1.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Lists/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Lists/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Lists/Exercise 2/src/IntList2.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Lists/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Lists/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Lists/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Lists/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Lists/Exercise 4/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Lists/Exercise 4/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Maps/Examples/src/ContactMap.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Maps/Examples/src/GetValue.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Maps/Examples/src/Maps.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Maps/Examples/src/MutableMaps.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Maps/Examples/src/ReadOnlyMaps.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Maps/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Maps/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Maps/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Maps/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Maps/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Maps/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Maps/Exercise 4/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Maps/Exercise 4/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Objects Everywhere/Examples/src/Conversion.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Objects Everywhere/Examples/src/IntRanges.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Objects Everywhere/Examples/src/NumberConversions.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Objects Everywhere/Examples/src/RangeSum.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Objects Everywhere/Examples/src/Strings.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Objects Everywhere/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Objects Everywhere/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Objects Everywhere/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Objects Everywhere/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Objects Everywhere/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Objects Everywhere/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Objects Everywhere/Exercise 4/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Objects Everywhere/Exercise 4/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Objects Everywhere/Exercise 5/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Objects Everywhere/Exercise 5/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Packages/Examples/src/FullyQualify.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Packages/Examples/src/ImportClass.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Packages/Examples/src/ImportEverything.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Packages/Examples/src/ImportNameChange.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Packages/Examples/src/ImportPythagorean.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Packages/Examples/src/PythagoreanTheorem.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Packages/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Packages/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Packages/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Packages/Exercise 2/src/aaa.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Packages/Exercise 2/src/bbb.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Packages/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Packages/Exercise 3/src/EquilateralTriangle.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Packages/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Packages/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Packages/Exercise 4/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Packages/Exercise 4/src/Triangle.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Packages/Exercise 4/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Properties/Examples/src/AnUnchangingVar.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Properties/Examples/src/ChangingAVal.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Properties/Examples/src/Cup.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Properties/Examples/src/Cup2.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Properties/Examples/src/References.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Properties/Examples/src/TopLevelProperty.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Properties/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Properties/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Properties/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Properties/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Properties/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Properties/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Properties/Exercise 4/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Properties/Exercise 4/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Property Accessors/Examples/src/Counter.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Property Accessors/Examples/src/Data.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Property Accessors/Examples/src/Default.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Property Accessors/Examples/src/Hamsters.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Property Accessors/Examples/src/Hamsters2.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Property Accessors/Examples/src/LogChanges.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Property Accessors/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Property Accessors/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Property Accessors/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Property Accessors/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Property Accessors/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Property Accessors/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Property Accessors/Exercise 4/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Property Accessors/Exercise 4/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Property Accessors/Exercise 5/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Property Accessors/Exercise 5/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Sets/Examples/src/MutableSet.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Sets/Examples/src/RemoveDuplicates.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Sets/Examples/src/Sets.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Sets/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Sets/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Sets/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Sets/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Sets/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Sets/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Sets/Exercise 4/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Sets/Exercise 4/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Summary 2/Examples/src/ALibrary.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Summary 2/Examples/src/ASCIIMap.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Summary 2/Examples/src/ArraySpread.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Summary 2/Examples/src/AtomicTestCapture.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Summary 2/Examples/src/Boxes.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Summary 2/Examples/src/ClassBodies.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Summary 2/Examples/src/ColorSet.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Summary 2/Examples/src/ExplicitTyping.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Summary 2/Examples/src/GetterAndSetter.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Summary 2/Examples/src/JetPack.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Summary 2/Examples/src/ListCollection.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Summary 2/Examples/src/ListOfStrings.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Summary 2/Examples/src/MultipleListReferences.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Summary 2/Examples/src/PropertyReadWrite.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Summary 2/Examples/src/Quadratic.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Summary 2/Examples/src/ReadonlyVsMutableList.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Summary 2/Examples/src/Temperature.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Summary 2/Examples/src/TicTacToe.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Summary 2/Examples/src/ToDoubleException.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Summary 2/Examples/src/UseALibrary.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Summary 2/Examples/src/UsingAtomicTest.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Summary 2/Examples/src/UsingTrace.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Summary 2/Examples/src/VarArgs.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Summary 2/Examples/src/WildAnimals.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Summary 2/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Summary 2/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Summary 2/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Summary 2/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Summary 2/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Summary 2/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Summary 2/Exercise 4/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Summary 2/Exercise 4/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Summary 2/Exercise 5/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Summary 2/Exercise 5/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Summary 2/Exercise 6/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Summary 2/Exercise 6/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Summary 2/Exercise 7/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Summary 2/Exercise 7/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Summary 2/Exercise 8/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Summary 2/Exercise 8/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Testing/Examples/src/TDDFail.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Testing/Examples/src/TDDStillFails.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Testing/Examples/src/TDDWorks.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Testing/Examples/src/TestingExample.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Testing/Examples/src/Trace1.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Testing/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Testing/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Testing/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Testing/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Testing/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Testing/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Testing/Exercise 4/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Testing/Exercise 4/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Variable Argument Lists/Examples/src/ListOf.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Variable Argument Lists/Examples/src/MainArgConversion.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Variable Argument Lists/Examples/src/MainArgs.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Variable Argument Lists/Examples/src/SpreadOperator.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Variable Argument Lists/Examples/src/TwoFunctionsWithVarargs.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Variable Argument Lists/Examples/src/VarargLikeList.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Variable Argument Lists/Examples/src/VarargSum.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Variable Argument Lists/Examples/src/VariableArgList.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Variable Argument Lists/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Variable Argument Lists/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Variable Argument Lists/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Variable Argument Lists/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Variable Argument Lists/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Variable Argument Lists/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Variable Argument Lists/Exercise 4/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Variable Argument Lists/Exercise 4/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Variable Argument Lists/Exercise 5/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Introduction to Objects/Variable Argument Lists/Exercise 5/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Abstract Classes/Examples/src/AbstractKeyword.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Abstract Classes/Examples/src/Implementations.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Abstract Classes/Examples/src/InterfaceCollision.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Abstract Classes/Examples/src/MultipleInterfaceInheritance.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Abstract Classes/Examples/src/NoMultipleInheritance.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Abstract Classes/Examples/src/NoStateInInterfaces.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Abstract Classes/Examples/src/PropertyAccessor.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Abstract Classes/Examples/src/Redundant.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Abstract Classes/Examples/src/StateOfAClass.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Abstract Classes/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Abstract Classes/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Abstract Classes/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Abstract Classes/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Abstract Classes/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Abstract Classes/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Base Class Initialization/Examples/src/GreatApe3.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Base Class Initialization/Examples/src/House.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Base Class Initialization/Examples/src/NoArgConstructor.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Base Class Initialization/Examples/src/OtherConstructors.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Base Class Initialization/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Base Class Initialization/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Base Class Initialization/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Base Class Initialization/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Base Class Initialization/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Base Class Initialization/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Class Delegation/Examples/src/BasicDelegation.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Class Delegation/Examples/src/DelegatedControls.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Class Delegation/Examples/src/ExplicitDelegation.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Class Delegation/Examples/src/ModelingMI.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Class Delegation/Examples/src/SpaceShipControls.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Class Delegation/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Class Delegation/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Class Delegation/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Class Delegation/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Class Delegation/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Class Delegation/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Companion Objects/Examples/src/CompanionDelegation.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Companion Objects/Examples/src/CompanionFactory.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Companion Objects/Examples/src/CompanionInstance.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Companion Objects/Examples/src/CompanionObject.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Companion Objects/Examples/src/DelegateAndExtend.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Companion Objects/Examples/src/Initialization.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Companion Objects/Examples/src/NamingCompanionObjects.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Companion Objects/Examples/src/ObjectCounter.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Companion Objects/Examples/src/ObjectFunctions.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Companion Objects/Examples/src/ObjectProperty.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Companion Objects/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Companion Objects/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Companion Objects/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Companion Objects/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Companion Objects/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Companion Objects/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Complex Constructors/Examples/src/InitSection.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Complex Constructors/Examples/src/SimpleConstructor.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Complex Constructors/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Complex Constructors/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Complex Constructors/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Complex Constructors/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Complex Constructors/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Complex Constructors/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Composition/Examples/src/Car.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Composition/Examples/src/Embedding.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Composition/Examples/src/House1.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Composition/Examples/src/House2.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Composition/Examples/src/House3.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Composition/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Composition/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Composition/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Composition/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Composition/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Composition/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Downcasting/Examples/src/Creature.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Downcasting/Examples/src/FilterIsInstance.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Downcasting/Examples/src/FindType.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Downcasting/Examples/src/IsKeyword.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Downcasting/Examples/src/MutableSmartCast.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Downcasting/Examples/src/NarrowingUpcast.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Downcasting/Examples/src/Safe.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Downcasting/Examples/src/Unsafe.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Downcasting/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Downcasting/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Downcasting/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Downcasting/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Downcasting/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Downcasting/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Inheritance   Extensions/Examples/src/Adapter.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Inheritance   Extensions/Examples/src/ComposeAdapter.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Inheritance   Extensions/Examples/src/Convention.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Inheritance   Extensions/Examples/src/DeviceExtensions.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Inheritance   Extensions/Examples/src/DeviceMembers.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Inheritance   Extensions/Examples/src/ExtensionFuncs.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Inheritance   Extensions/Examples/src/Heater.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Inheritance   Extensions/Examples/src/InheritAdd.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Inheritance   Extensions/Examples/src/NoExtOverride.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Inheritance   Extensions/Examples/src/PrivateAccess.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Inheritance   Extensions/Examples/src/TemperatureDelta.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Inheritance   Extensions/Examples/src/UsefulLibrary.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Inheritance   Extensions/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Inheritance   Extensions/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Inheritance   Extensions/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Inheritance   Extensions/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Inheritance/Examples/src/BasicInheritance.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Inheritance/Examples/src/GreatApe.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Inheritance/Examples/src/GreatApe2.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Inheritance/Examples/src/OpenAndFinalClasses.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Inheritance/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Inheritance/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Inheritance/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Inheritance/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Inheritance/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Inheritance/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Inner Classes/Examples/src/CounterFactory.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Inner Classes/Examples/src/Hotel.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Inner Classes/Examples/src/InnerClassInheritance.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Inner Classes/Examples/src/LocalInnerClasses.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Inner Classes/Examples/src/QualifiedThis.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Inner Classes/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Inner Classes/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Inner Classes/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Inner Classes/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Inner Classes/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Inner Classes/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Interfaces/Examples/src/Computer.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Interfaces/Examples/src/Hotness.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Interfaces/Examples/src/PlayerInterface.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Interfaces/Examples/src/SAM.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Interfaces/Examples/src/SAMConversion.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Interfaces/Examples/src/SAMImplementation.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Interfaces/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Interfaces/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Interfaces/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Interfaces/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Interfaces/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Interfaces/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Nested Classes/Examples/src/Airport.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Nested Classes/Examples/src/FillIt.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Nested Classes/Examples/src/LocalClasses.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Nested Classes/Examples/src/NestedHouse.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Nested Classes/Examples/src/ReturnLocal.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Nested Classes/Examples/src/Ticket.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Nested Classes/Examples/src/WithinInterface.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Nested Classes/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Nested Classes/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Nested Classes/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Nested Classes/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Nested Classes/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Nested Classes/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Nested Classes/Exercise 4/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Nested Classes/Exercise 4/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Objects/Examples/src/GlobalSharing.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Objects/Examples/src/ObjectInheritance.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Objects/Examples/src/ObjectKeyword.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Objects/Examples/src/ObjectNesting.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Objects/Examples/src/Share1.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Objects/Examples/src/Share2.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Objects/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Objects/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Objects/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Objects/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Objects/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Objects/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Polymorphism/Examples/src/FantasyGame.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Polymorphism/Examples/src/Pet.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Polymorphism/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Polymorphism/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Polymorphism/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Polymorphism/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Polymorphism/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Polymorphism/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Sealed Classes/Examples/src/SealedClasses.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Sealed Classes/Examples/src/SealedSubclasses.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Sealed Classes/Examples/src/SealedVsAbstract.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Sealed Classes/Examples/src/ThirdLevelSealed.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Sealed Classes/Examples/src/UnSealed.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Sealed Classes/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Sealed Classes/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Sealed Classes/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Sealed Classes/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Sealed Classes/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Sealed Classes/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Secondary Constructors/Examples/src/GardenItem.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Secondary Constructors/Examples/src/WithSecondary.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Secondary Constructors/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Secondary Constructors/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Secondary Constructors/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Secondary Constructors/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Secondary Constructors/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Secondary Constructors/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Type Checking/Examples/src/AnyName.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Type Checking/Examples/src/BeverageContainer.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Type Checking/Examples/src/BeverageContainer2.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Type Checking/Examples/src/BeverageContainer3.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Type Checking/Examples/src/Insects.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Type Checking/Examples/src/TypeCheck1.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Type Checking/Examples/src/TypeCheck2.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Type Checking/Examples/src/TypeCheck3.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Type Checking/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Type Checking/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Type Checking/Exercise 2/src/TaskA.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Type Checking/Exercise 2/src/TaskB.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Type Checking/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Type Checking/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Type Checking/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Upcasting/Examples/src/Assignment.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Upcasting/Examples/src/Drawing.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Upcasting/Examples/src/Shapes.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Upcasting/Examples/src/TrimmedMembers.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Upcasting/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Upcasting/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Upcasting/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Upcasting/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Upcasting/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Object-Oriented Programming/Upcasting/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Creating Generics/Examples/src/BoxAssignment.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Creating Generics/Examples/src/CarCrate.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Creating Generics/Examples/src/CheckType.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Creating Generics/Examples/src/Constrained.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Creating Generics/Examples/src/Constraints.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Creating Generics/Examples/src/CovariantList.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Creating Generics/Examples/src/CovariantReturnTypes.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Creating Generics/Examples/src/Crate.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Creating Generics/Examples/src/DefiningGenerics.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Creating Generics/Examples/src/Disposable.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Creating Generics/Examples/src/Erasure.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Creating Generics/Examples/src/InAndOutBoxes.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Creating Generics/Examples/src/InBoxAssignment.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Creating Generics/Examples/src/MapCrate.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Creating Generics/Examples/src/NonGenericConstraint.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Creating Generics/Examples/src/OutBoxAssignment.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Creating Generics/Examples/src/Pets.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Creating Generics/Examples/src/ReificationA.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Creating Generics/Examples/src/ReificationB.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Creating Generics/Examples/src/ReificationC.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Creating Generics/Examples/src/ReificationD.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Creating Generics/Examples/src/SameReturnType.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Creating Generics/Examples/src/Select.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Creating Generics/Examples/src/Speakers.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Creating Generics/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Creating Generics/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Creating Generics/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Creating Generics/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Creating Generics/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Creating Generics/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Extension Lambdas/Examples/src/AnonymousFunction.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Extension Lambdas/Examples/src/ExtensionPolymorphism.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Extension Lambdas/Examples/src/FuncReferences.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Extension Lambdas/Examples/src/FunctionParameters.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Extension Lambdas/Examples/src/LambdaUnitReturn.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Extension Lambdas/Examples/src/ListsAndMaps.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Extension Lambdas/Examples/src/Parameters.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Extension Lambdas/Examples/src/Sandwich.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Extension Lambdas/Examples/src/StringCreation.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Extension Lambdas/Examples/src/Transform.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Extension Lambdas/Examples/src/Vanbo.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Extension Lambdas/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Extension Lambdas/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Extension Lambdas/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Extension Lambdas/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Extension Lambdas/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Extension Lambdas/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Late Initialization/Examples/src/Bag.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Late Initialization/Examples/src/BetterSuitcase.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Late Initialization/Examples/src/FaultySuitcase.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Late Initialization/Examples/src/IsInitialized.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Late Initialization/Examples/src/Suitcase.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Late Initialization/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Late Initialization/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Late Initialization/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Late Initialization/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Late Initialization/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Late Initialization/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Lazy Initialization/Examples/src/LazyInt.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Lazy Initialization/Examples/src/LazySyntax.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Lazy Initialization/Examples/src/PropertyOptions.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Lazy Initialization/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Lazy Initialization/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Lazy Initialization/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Lazy Initialization/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Lazy Initialization/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Lazy Initialization/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Operator Overloading/Examples/src/ArithmeticOperators.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Operator Overloading/Examples/src/Backticks.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Operator Overloading/Examples/src/Comparison.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Operator Overloading/Examples/src/ConfusingPrecedence.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Operator Overloading/Examples/src/ContainerAccess.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Operator Overloading/Examples/src/DefaultEquality.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Operator Overloading/Examples/src/DefiningEquality.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Operator Overloading/Examples/src/DifferentTypes.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Operator Overloading/Examples/src/EqualsForNullable.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Operator Overloading/Examples/src/Invoke.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Operator Overloading/Examples/src/InvokeFunctionType.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Operator Overloading/Examples/src/MemberOperator.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Operator Overloading/Examples/src/Molecule.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Operator Overloading/Examples/src/Num.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Operator Overloading/Examples/src/Ranges.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Operator Overloading/Examples/src/StringInvoke.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Operator Overloading/Examples/src/Swearing.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Operator Overloading/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Operator Overloading/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Operator Overloading/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Operator Overloading/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Operator Overloading/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Operator Overloading/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Property Delegation Tools/Examples/src/CarService.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Property Delegation Tools/Examples/src/MapAccessors.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Property Delegation Tools/Examples/src/NeverNull.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Property Delegation Tools/Examples/src/Team.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Property Delegation Tools/Examples/src/TeamWithTraditions.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Property Delegation Tools/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Property Delegation Tools/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Property Delegation Tools/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Property Delegation Tools/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Property Delegation Tools/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Property Delegation Tools/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Property Delegation Tools/Exercise 4/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Property Delegation Tools/Exercise 4/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Property Delegation/Examples/src/Accessibility.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Property Delegation/Examples/src/Add.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Property Delegation/Examples/src/BasicRead.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Property Delegation/Examples/src/BasicRead2.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Property Delegation/Examples/src/BasicReadWrite.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Property Delegation/Examples/src/BasicReadWrite2.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Property Delegation/Examples/src/Configuration.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Property Delegation/Examples/src/FibonacciProperty.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Property Delegation/Examples/src/FileDelegate.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Property Delegation/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Property Delegation/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Property Delegation/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Property Delegation/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Property Delegation/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Property Delegation/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Scope Functions/Examples/src/AndNullability.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Scope Functions/Examples/src/Blob.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Scope Functions/Examples/src/Differences.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Scope Functions/Examples/src/Gnome.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Scope Functions/Examples/src/MapLookup.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Scope Functions/Examples/src/NameTag.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Scope Functions/Examples/src/Nesting.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Scope Functions/Examples/src/NullGnome.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Scope Functions/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Scope Functions/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Scope Functions/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Scope Functions/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Scope Functions/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Scope Functions/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Using Operators/Examples/src/ComparableRange.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Using Operators/Examples/src/CompareTo.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Using Operators/Examples/src/DestructuringData.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Using Operators/Examples/src/DestructuringDuo.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Using Operators/Examples/src/DestructuringMap.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Using Operators/Examples/src/NewAngle.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Using Operators/Examples/src/OperatorPlus.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Using Operators/Examples/src/ReadOnlyAndPlus.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Using Operators/Examples/src/Unexpected.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Using Operators/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Using Operators/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Using Operators/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Using Operators/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Using Operators/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Power Tools/Using Operators/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Check Instructions/Examples/src/DataFile.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Check Instructions/Examples/src/GetTrace.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Check Instructions/Examples/src/JulianMonth.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Check Instructions/Examples/src/Postconditions.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Check Instructions/Examples/src/QuadraticRequire.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Check Instructions/Examples/src/RequireNotNull.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Check Instructions/Examples/src/SingleArgRequire.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Check Instructions/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Check Instructions/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Check Instructions/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Check Instructions/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Check Instructions/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Check Instructions/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Check Instructions/Exercise 4/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Check Instructions/Exercise 4/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Exception Handling/Examples/src/CaptureImplementation.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Exception Handling/Examples/src/DefiningExceptions.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Exception Handling/Examples/src/GuaranteedCleanup.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Exception Handling/Examples/src/Handlers.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Exception Handling/Examples/src/Hierarchy.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Exception Handling/Examples/src/LibraryException.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Exception Handling/Examples/src/NewException.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Exception Handling/Examples/src/Stacktrace.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Exception Handling/Examples/src/TryFinally.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Exception Handling/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Exception Handling/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Exception Handling/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Exception Handling/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Exception Handling/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Exception Handling/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Logging/Examples/src/AtomicLog.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Logging/Examples/src/BasicLogging.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Logging/Examples/src/SimpleLoggingStrategy.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Logging/Examples/src/UseAtomicLog.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Logging/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Logging/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Logging/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Logging/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Logging/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Logging/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Resource Cleanup/Examples/src/AutoCloseable.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Resource Cleanup/Examples/src/ForEachLine.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Resource Cleanup/Examples/src/Usable.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Resource Cleanup/Examples/src/UseLines.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Resource Cleanup/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Resource Cleanup/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Resource Cleanup/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Resource Cleanup/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Resource Cleanup/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Resource Cleanup/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/The Nothing Type/Examples/src/CheckObject.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/The Nothing Type/Examples/src/CheckObject2.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/The Nothing Type/Examples/src/Fail.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/The Nothing Type/Examples/src/InfiniteLoop.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/The Nothing Type/Examples/src/ListOfNothing.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/The Nothing Type/Examples/src/Todo.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/The Nothing Type/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/The Nothing Type/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/The Nothing Type/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/The Nothing Type/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/The Nothing Type/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/The Nothing Type/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Unit Testing/Examples/src/Learner.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Unit Testing/Examples/src/LearnerTest.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Unit Testing/Examples/src/NoFramework.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Unit Testing/Examples/src/SampleTest.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Unit Testing/Examples/src/StateMachine.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Unit Testing/Examples/src/StateMachineTest.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Unit Testing/Examples/src/UsingExpect.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Unit Testing/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Unit Testing/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Unit Testing/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Unit Testing/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Unit Testing/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Preventing Failure/Unit Testing/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Booleans/Examples/src/Closed.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Booleans/Examples/src/EvaluationOrder.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Booleans/Examples/src/Open1.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Booleans/Examples/src/Open2.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Booleans/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Booleans/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Booleans/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Booleans/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Booleans/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Booleans/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Booleans/Exercise 4/src/Foo.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Booleans/Exercise 4/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Booleans/Exercise 4/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Data Types/Examples/src/Inference.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Data Types/Examples/src/StringPlusNumber.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Data Types/Examples/src/Types.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Data Types/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Data Types/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Data Types/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Data Types/Exercise 2/test/output.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Data Types/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Data Types/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Data Types/Exercise 4/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Data Types/Exercise 4/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Data Types/Exercise 5/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Data Types/Exercise 5/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Expressions   Statements/Examples/src/AssigningAnIf.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Expressions   Statements/Examples/src/Confusing.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Expressions   Statements/Examples/src/ForIsAStatement.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Expressions   Statements/Examples/src/PostfixVsPrefix.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Expressions   Statements/Examples/src/UnitReturnType.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Expressions   Statements/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Expressions   Statements/Exercise 1/test/output.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Expressions   Statements/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Expressions   Statements/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Expressions   Statements/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Expressions   Statements/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Expressions   Statements/Exercise 4/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Expressions   Statements/Exercise 4/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Functions/Examples/src/MultiplyByFour.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Functions/Examples/src/MultiplyByThree.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Functions/Examples/src/MultiplyByTwo.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Functions/Examples/src/SayHello.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Functions/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Functions/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Functions/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Functions/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Functions/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Functions/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Functions/Exercise 4/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Functions/Exercise 4/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Hello, World/Examples/src/EmptyProgram.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Hello, World/Examples/src/HelloWorld.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Hello, World/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Hello, World/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Hello, World/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Hello, World/Exercise 2/test/output.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Hello, World/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Hello, World/Exercise 3/test/output.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Hello, World/Exercise 4/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Hello, World/Exercise 4/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Hello, World/Exercise 5/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Hello, World/Exercise 5/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Looping   Ranges/Examples/src/AddingIntToChar.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Looping   Ranges/Examples/src/DefiningRanges.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Looping   Ranges/Examples/src/ForWithCharRange.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Looping   Ranges/Examples/src/ForWithRanges.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Looping   Ranges/Examples/src/HasChar.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Looping   Ranges/Examples/src/IndexIntoString.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Looping   Ranges/Examples/src/IterateOverString.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Looping   Ranges/Examples/src/RepeatHi.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Looping   Ranges/Examples/src/RepeatThreeTimes.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Looping   Ranges/Examples/src/SumUsingRange.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Looping   Ranges/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Looping   Ranges/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Looping   Ranges/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Looping   Ranges/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Looping   Ranges/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Looping   Ranges/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Looping   Ranges/Exercise 4/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Looping   Ranges/Exercise 4/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Looping   Ranges/Exercise 5/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Looping   Ranges/Exercise 5/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Number Types/Examples/src/BMIEnglish.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Number Types/Examples/src/BMIMetric.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Number Types/Examples/src/BiggestLong.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Number Types/Examples/src/InferInt.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Number Types/Examples/src/IntDivisionTruncates.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Number Types/Examples/src/IntegerOverflow.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Number Types/Examples/src/LongConstants.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Number Types/Examples/src/Modulus.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Number Types/Examples/src/OpOrder.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Number Types/Examples/src/OpOrderParens.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Number Types/Examples/src/UsingLongs.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Number Types/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Number Types/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Number Types/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Number Types/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Number Types/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Number Types/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Number Types/Exercise 4/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Number Types/Exercise 4/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Number Types/Exercise 5/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Number Types/Exercise 5/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Repetition with while/Examples/src/AssignmentOperators.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Repetition with while/Examples/src/DoWhileLoop.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Repetition with while/Examples/src/IncrementOperator.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Repetition with while/Examples/src/WhileLoop.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Repetition with while/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Repetition with while/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Repetition with while/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Repetition with while/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Repetition with while/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Repetition with while/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Repetition with while/Exercise 4/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Repetition with while/Exercise 4/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Repetition with while/Exercise 5/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Repetition with while/Exercise 5/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/String Templates/Examples/src/ExpressionInTemplate.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/String Templates/Examples/src/StringConcatenation.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/String Templates/Examples/src/StringTemplates.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/String Templates/Examples/src/TripleQuotes.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/String Templates/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/String Templates/Exercise 1/test/output.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/String Templates/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/String Templates/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/String Templates/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/String Templates/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/String Templates/Exercise 4/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/String Templates/Exercise 4/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/String Templates/Exercise 5/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/String Templates/Exercise 5/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Examples/src/BasicFunctions.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Examples/src/Booleans.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Examples/src/DoWhile.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Examples/src/Hello.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Examples/src/IfExpression.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Examples/src/IfResult.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Examples/src/Membership.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Examples/src/NumberTypes.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Examples/src/Overflow.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Examples/src/RangeOfInt.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Examples/src/StrTemplates.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Examples/src/StringIteration.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Examples/src/ThreeQuotes.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Examples/src/Truncation.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Examples/src/UnitReturn.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Examples/src/While.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Exercise 1/test/output.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Exercise 10/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Exercise 10/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Exercise 4/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Exercise 4/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Exercise 5/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Exercise 5/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Exercise 6/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Exercise 6/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Exercise 7/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Exercise 7/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Exercise 8/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Exercise 8/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Exercise 9/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/Summary 1/Exercise 9/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/The in Keyword/Examples/src/CharRange.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/The in Keyword/Examples/src/FloatingPointRange.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/The in Keyword/Examples/src/InString.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/The in Keyword/Examples/src/IterationVsMembership.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/The in Keyword/Examples/src/MembershipInRange.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/The in Keyword/Examples/src/MembershipUsingBounds.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/The in Keyword/Examples/src/StringRange.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/The in Keyword/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/The in Keyword/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/The in Keyword/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/The in Keyword/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/The in Keyword/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/The in Keyword/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/The in Keyword/Exercise 4/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/The in Keyword/Exercise 4/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/The in Keyword/Exercise 5/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/The in Keyword/Exercise 5/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/if Expressions/Examples/src/If1.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/if Expressions/Examples/src/If2.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/if Expressions/Examples/src/If3.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/if Expressions/Examples/src/If4.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/if Expressions/Examples/src/If5.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/if Expressions/Examples/src/If6.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/if Expressions/Examples/src/OneOrTheOther.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/if Expressions/Examples/src/TrueOrFalse.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/if Expressions/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/if Expressions/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/if Expressions/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/if Expressions/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/if Expressions/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/if Expressions/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/if Expressions/Exercise 4/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/if Expressions/Exercise 4/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/var   val/Examples/src/AVarIsMutable.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/var   val/Examples/src/Vals.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/var   val/Examples/src/Vars.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/var   val/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/var   val/Exercise 1/test/output.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/var   val/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/var   val/Exercise 2/test/output.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/var   val/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/var   val/Exercise 3/test/output.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/var   val/Exercise 4/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/var   val/Exercise 4/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/var   val/Exercise 5/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Programming Basics/var   val/Exercise 5/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Data Classes/Examples/src/CopyDataClass.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Data Classes/Examples/src/DataClasses.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Data Classes/Examples/src/HashCode.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Data Classes/Examples/src/Simple.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Data Classes/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Data Classes/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Data Classes/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Data Classes/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Data Classes/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Data Classes/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Destructuring Declarations/Examples/src/Computation.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Destructuring Declarations/Examples/src/ForLoop.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Destructuring Declarations/Examples/src/LoopWithIndex.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Destructuring Declarations/Examples/src/PairDestructuring.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Destructuring Declarations/Examples/src/Pairs.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Destructuring Declarations/Examples/src/Tuple.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Destructuring Declarations/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Destructuring Declarations/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Destructuring Declarations/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Destructuring Declarations/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Destructuring Declarations/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Destructuring Declarations/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Enumerations/Examples/src/CheckingOptions.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Enumerations/Examples/src/Direction.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Enumerations/Examples/src/EnumImport.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Enumerations/Examples/src/Level.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Enumerations/Examples/src/RecursiveEnumImport.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Enumerations/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Enumerations/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Enumerations/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Enumerations/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Enumerations/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Enumerations/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Extension Functions/Examples/src/BookExtensions.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Extension Functions/Examples/src/Quote.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Extension Functions/Examples/src/Quoting.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Extension Functions/Examples/src/StrangeQuote.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Extension Functions/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Extension Functions/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Extension Functions/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Extension Functions/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Extension Functions/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Extension Functions/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Extension Functions/Exercise 4/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Extension Functions/Exercise 4/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Extension Properties/Examples/src/AnyFromListOfStar.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Extension Properties/Examples/src/GenericListExt.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Extension Properties/Examples/src/ListOfStar.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Extension Properties/Examples/src/StringIndices.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Extension Properties/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Extension Properties/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Extension Properties/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Extension Properties/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Extension Properties/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Extension Properties/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Extensions for Nullable Types/Examples/src/NullableExtension.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Extensions for Nullable Types/Examples/src/NullableParameter.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Extensions for Nullable Types/Examples/src/StringIsNullOr.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Extensions for Nullable Types/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Extensions for Nullable Types/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Extensions for Nullable Types/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Extensions for Nullable Types/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Extensions for Nullable Types/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Extensions for Nullable Types/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Introduction to Generics/Examples/src/AnyInstead.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Introduction to Generics/Examples/src/GenericFunction.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Introduction to Generics/Examples/src/GenericHolder.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Introduction to Generics/Examples/src/GenericListExtensions.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Introduction to Generics/Examples/src/RigidHolder.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Introduction to Generics/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Introduction to Generics/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Introduction to Generics/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Introduction to Generics/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Introduction to Generics/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Introduction to Generics/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Named   Default Arguments/Examples/src/ArgumentOrder.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Named   Default Arguments/Examples/src/Color2.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Named   Default Arguments/Examples/src/Color3.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Named   Default Arguments/Examples/src/CreateString.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Named   Default Arguments/Examples/src/CreateString2.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Named   Default Arguments/Examples/src/Evaluation.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Named   Default Arguments/Examples/src/NamedArguments.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Named   Default Arguments/Examples/src/TrimMargin.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Named   Default Arguments/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Named   Default Arguments/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Named   Default Arguments/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Named   Default Arguments/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Named   Default Arguments/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Named   Default Arguments/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Named   Default Arguments/Exercise 4/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Named   Default Arguments/Exercise 4/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Non-Null Assertions/Examples/src/NonNullAssert.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Non-Null Assertions/Examples/src/NonNullAssertCall.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Non-Null Assertions/Examples/src/ValueFromMap.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Non-Null Assertions/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Non-Null Assertions/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Non-Null Assertions/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Non-Null Assertions/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Non-Null Assertions/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Non-Null Assertions/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Nullable Types/Examples/src/Amphibian.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Nullable Types/Examples/src/Dereference.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Nullable Types/Examples/src/ExplicitCheck.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Nullable Types/Examples/src/NullInMaps.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Nullable Types/Examples/src/NullableInMap.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Nullable Types/Examples/src/NullableTypes.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Nullable Types/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Nullable Types/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Nullable Types/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Nullable Types/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Nullable Types/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Nullable Types/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Overloading/Examples/src/MemberVsExtension.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Overloading/Examples/src/OverloadedVsDefaultArg.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Overloading/Examples/src/Overloading.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Overloading/Examples/src/OverloadingAdd.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Overloading/Examples/src/WithDefaultArguments.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Overloading/Examples/src/WithoutDefaultArguments.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Overloading/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Overloading/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Overloading/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Overloading/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Overloading/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Overloading/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Overloading/Exercise 4/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Overloading/Exercise 4/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Safe Calls   the Elvis Operator/Examples/src/ChainedCalls.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Safe Calls   the Elvis Operator/Examples/src/DereferenceNull.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Safe Calls   the Elvis Operator/Examples/src/ElvisCall.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Safe Calls   the Elvis Operator/Examples/src/ElvisOperator.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Safe Calls   the Elvis Operator/Examples/src/SafeCall.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Safe Calls   the Elvis Operator/Examples/src/SafeOperation.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Safe Calls   the Elvis Operator/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Safe Calls   the Elvis Operator/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Safe Calls   the Elvis Operator/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Safe Calls   the Elvis Operator/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Safe Calls   the Elvis Operator/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/Safe Calls   the Elvis Operator/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/break   continue/Examples/src/DoWhileControl.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/break   continue/Examples/src/ForControl.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/break   continue/Examples/src/ForLabeled.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/break   continue/Examples/src/Improved.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/break   continue/Examples/src/WhileControl.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/break   continue/Examples/src/WhileLabeled.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/break   continue/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/break   continue/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/break   continue/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/break   continue/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/break   continue/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/break   continue/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/when Expressions/Examples/src/AnalyzeInput.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/when Expressions/Examples/src/BmiWhen.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/when Expressions/Examples/src/GermanOrdinals.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/when Expressions/Examples/src/MatchingAgainstVals.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/when Expressions/Examples/src/MixColors.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/when Expressions/Exercise 1/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/when Expressions/Exercise 1/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/when Expressions/Exercise 2/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/when Expressions/Exercise 2/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/when Expressions/Exercise 3/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/when Expressions/Exercise 3/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/when Expressions/Exercise 4/src/Task.kt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usability/when Expressions/Exercise 4/test/Tests.kt" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="2Z88YFqak1dyBgHsxduehVd3QCM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Edu.Yaml.Migrate&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/vdorofeev/MyProjects/test_projects/gitea-test-task&quot;,
+    &quot;show.inlinked.gradle.project.popup&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a851a4ec-ae9e-4803-928d-5c5c7f30aa87" name="Changes" comment="" />
+      <created>1701792392255</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701792392255</updated>
+      <workItem from="1701792394354" duration="189000" />
+      <workItem from="1701792596135" duration="181000" />
+      <workItem from="1701793979417" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
